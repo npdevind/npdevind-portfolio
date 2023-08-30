@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true, // format code when you hit save
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "prettier.tabWidth": 4,
+  "cSpell.words": ["aboutme"]
+}
